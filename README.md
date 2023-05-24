@@ -28,6 +28,7 @@ Poniżej znajdziesz listę kroków - powinienes po prostu za nią podążac.
 7. [Tu](intro/test/java/com/rainer/pawel/intro/_5_/__3__/StringSplittingRepositoryIntegrationTest.java) dowiesz się czym są testy integracyjne
 
 Teraz masz już podstawową wiedzę na temat testów i możesz przejsc do projektu (katalog `src`)
+Możesz najpierw pobawic się aplikacją i zobaczyc jak działa ;) - jej zadaniem jest przechowywanie informacji o zwierzętach
 
 **Twoim zadaniem jest:**
 
@@ -48,5 +49,11 @@ W katalogu `src/integration-test` napisac unit testy klas:
 Gotowe testy - do porównania z Twoimi - znajdziesz w katalogu `src/solution`
 
 ## Do poczytania
+
+Biblioteki do testowania:
+- [JUnit](https://www.baeldung.com/junit-5)
+- [Mockito](https://www.baeldung.com/mockito-series)
+
+Metodologie wytwarzania oprogramowania:
 - [Test Driven Development (TDD, cos takiego robilimy w kroku 4)](https://en.wikipedia.org/wiki/Test-driven_development)
 - [Architektura nowoczesnych aplikacji w "pigułce" (testy też tam są ;)](https://github.com/piotrsoltysiak/todo-list-clean-arch)
